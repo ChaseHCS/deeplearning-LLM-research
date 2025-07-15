@@ -51,7 +51,7 @@ The `dot product` is a single number that repreesents commonalities between obje
 
 ### Matrix multiplication
 
-Matrix multiplication is not as simple as it seems and has some requirements. The first requirement is they must have the same inner dimensions. For example, if we have `Matrix A`=5x2 and `Matrix B`=2x7. We **CAN** multiply these matricies as they have matching inner dimensions of 2. But, if we try and multiply B by A it will **NOT** work, as 7 != 5. It is also important to note that the size will be the **outside dimensions**.
+Matrix multiplication is not as simple as it seems and has some requirements. The first requirement is they must have the same inner dimensions. For example, if we have `Matrix A`=5x2 and `Matrix B`=2x7. We **CAN** multiply these matricies as they have matching inner dimensions of 2. But, if we try and multiply B by A it will **NOT** work, as 7 != 5. It is also important to note that the size will be the **outside dimensions**. Lastly, the output will come out as ordered dot products with, in this example, 5x7 dimensions.
 
 
 
