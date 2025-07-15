@@ -62,6 +62,17 @@ Softmaxxing an array is a way to get a percentage from each element of an array 
 ![Image couldn't load](https://www.sharpsightlabs.com/wp-content/uploads/2022/03/numpy-softmax_simple-visual-example.png "Softmax Visualization")
 
 ```txt
+# Very simply the equation can be explained like this.
 
+1. Take the exp of an array[1,2,3] -> [2.72,7.39,20.09]
+
+2. Get the sum of all the exp of the array = 30.19
+
+3. Then divide the original array by 30.19 = [0.09,0.24,0.67]
+
+# Now you have your softmax!
+
+# Note: The sum of the softmax will always equal 1 no matter the input.
+```
 
 
