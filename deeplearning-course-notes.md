@@ -57,7 +57,7 @@ Matrix multiplication is not as simple as it seems and has some requirements. Th
 
 Softmaxxing an array is a way to get a percentage from each element of an array or matrix. That really not a good explaination, it is better to learn from a picture:
 
-** Image grabbed from https://www.sharpsightlabs.com/wp-content/uploads/2022/03/numpy-softmax_simple-visual-example.png **
+**Image grabbed from https://www.sharpsightlabs.com/wp-content/uploads/2022/03/numpy-softmax_simple-visual-example.png**
 ![Image couldn't load](https://www.sharpsightlabs.com/wp-content/uploads/2022/03/numpy-softmax_simple-visual-example.png "Softmax Visualization")
 
 ```txt
