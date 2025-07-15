@@ -84,3 +84,5 @@ Logarithms are monotonic with exponentials and can never be below zero. They are
 We are only concerned with `Shannon Entropy` which is a way to think about uncertainty. Probabilities are maximally uncertain at .5 and become more certain as the go towards 0 or 1 in a non linear way. This is what it looks like:
 
 ![Image couldn't load](https://tcosmo.github.io/assets/H/Figure_1.png "Shannon Entropy")
+
+`Entropy` is a value of 1 when the probability is at `.5` and goes down as the probabilty becomes more certain.
