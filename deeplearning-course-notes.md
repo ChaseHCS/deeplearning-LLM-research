@@ -85,4 +85,4 @@ We are only concerned with `Shannon Entropy` which is a way to think about uncer
 
 ![Image couldn't load](https://tcosmo.github.io/assets/H/Figure_1.png "Shannon Entropy")
 
-`Entropy` is a value of 1 when the probability is at `.5` and goes down as the probabilty becomes more certain.
+`Entropy` is a value of `1` when the probability is at `.5` and goes down as the probabilty becomes more certain. 
