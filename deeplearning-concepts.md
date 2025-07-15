@@ -9,4 +9,6 @@
 
 ### ANN Artificial Neural Networks
 
-`ANNs` essentially comprise of bricks of this fundamental equation.
+`ANNs` essentially comprise of bricks of this fundamental equation. Think of each of the circles in the middle as the bricks and the ends, the input and output.
+
+![Alternative text](https://miro.medium.com/v2/resize:fit:1400/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png "Optional title")
