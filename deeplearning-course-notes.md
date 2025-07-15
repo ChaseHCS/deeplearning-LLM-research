@@ -77,7 +77,7 @@ Softmaxxing an array is a way to get a percentage from each element of an array 
 
 ### Logarithms
 
-Logarithms are monotonic with exponentials and can never be below zero. They are used in ML and DL to compute really small and close numbers for easier processing.
+Logarithms are monotonic with exponentials and can never be defined for a value of `x` below zero. They are used in ML and DL to compute really small and close numbers for easier processing.
 
 ### Entropy
 
