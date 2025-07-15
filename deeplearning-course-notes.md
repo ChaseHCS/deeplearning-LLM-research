@@ -33,10 +33,19 @@ The general idea of `Spectral theories` in math is you start with a **complicate
 The `Dot Product` is one of the most important foundational functions to learn in deep learning. It is fairly simple. It is commonly written as vTv. It is multiplying elements in the same position in seperate tensors and adding the sum. This is what it looks like:
 
 ```txt
+// Finding a vector dot product
+
 Tensor1 = [1,2,3,4]
 Tensor2 = [5,6,7,8]
 
 Tensor1 dot Tensor2 = 1*5 + 2*6 + 3*7 + 4*8
+
+// Finding a matrix dot product
+
+Tensor3 = ([1,1,1],[2,2,2],[3,3,3])
+Tensor4 = ([4,4,4],[5,5,5],[6,6,6])
+
+Tensor3 dot Tensor4 = 1*4 + 1*4 + 1*4 + 2*5 + 2*5 + 2*5 + 3*6 + 3*6 + 3*6
 ```
 
 
