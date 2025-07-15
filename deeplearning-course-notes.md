@@ -75,4 +75,12 @@ Softmaxxing an array is a way to get a percentage from each element of an array 
 # Note: The sum of the softmax will always equal 1 no matter the input.
 ```
 
+### Logarithms
 
+Logarithms are monotonic with exponentials and can never be below zero. They are used in ML and DL to compute really small and close numbers for easier processing.
+
+### Entropy
+
+We are only concerned with `Shannon Entropy` which is a way to think about uncertainty. Events are maximally uncertain at .5 and become more certain as the go towards 0 or 1 in a non linear way. This is what it looks like:
+
+![Image couldn't load](https://tcosmo.github.io/assets/H/Figure_1.png "Shannon Entropy")
