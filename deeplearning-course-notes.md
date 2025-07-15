@@ -26,4 +26,4 @@ Where `x1` is how many litres of water drank the day before exam, and `x2` is ho
 
 ### Mathematical theories
 
-The general idea of `Spectral theories` in math is you start with a **complicated** idea, and break it up into **simple** components. 
+The general idea of `Spectral theories` in math is you start with a **complicated** idea, and break it up into **simple** many components *OR* when you start with a **complex** idea, and break it up into a large or small amount of compenents. The main difference between complicated and complex ideas is that complicated ideas are inuitive and mostly linear. Think of things like CARs or DVDs. While complex ideas are unintuitive and mostly non-linear. Think things like biology and astrophysics.
