@@ -47,6 +47,10 @@ Tensor4 = ([4,4,4],[5,5,5],[6,6,6])
 
 Tensor3 dot Tensor4 = 1*4 + 1*4 + 1*4 + 2*5 + 2*5 + 2*5 + 3*6 + 3*6 + 3*6
 ```
+The `dot product` is a single number that repreesents commonalities between objects(vectors,tensors,arrays). Typically, a dot product with the value of `1` means the tensors are `maximally` similar. `0` means `no similarity` and lastly, `-1` means `maximially dissimilar`.
+
+### Matrix multiplication
+
 
 
 
