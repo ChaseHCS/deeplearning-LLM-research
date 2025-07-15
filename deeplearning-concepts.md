@@ -14,3 +14,12 @@
 **Image grabbed from https://miro.medium.com/v2/resize:fit:1400/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png**
 
 ![Image couldn't load](https://miro.medium.com/v2/resize:fit:1400/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png "ANN Visualization")
+
+### Forward propagation & Backwards propagation
+
+Take this example equation:
+
+```txt
+ŷ = x1w1 + x2w2
+```
+Where `x1` is how many litres of water drank the day before exam, and `x2` is hours studied before exam(x1 and x2 both have their attached weighting, and lastly `y hat` is the predictive measure if the student passed. In `Forward Propagation`, we are telling the model to take the exam. In `Backwards Propagation`, we are telling the model to change the weightings depending on the negative feedback which in this case is if the student passed or failed.
