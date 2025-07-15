@@ -27,3 +27,19 @@ Where `x1` is how many litres of water drank the day before exam, and `x2` is ho
 ### Mathematical theories
 
 The general idea of `Spectral theories` in math is you start with a **complicated** idea, and break it up into **simple** many components *OR* when you start with a **complex** idea, and break it up into a large or small amount of compenents. The main difference between complicated and complex ideas is that complicated ideas are inuitive and mostly linear. Think of things like CARs or DVDs. While complex ideas are unintuitive and mostly non-linear. Think things like biology and astrophysics.
+
+### Dot product
+
+The `Dot Product` is one of the most important foundational functions to learn in deep learning. It is fairly simple. It is commonly written as vTv. It is multiplying elements in the same position in seperate tensors and adding the sum. This is what it looks like:
+
+```txt
+Tensor1 = [1,2,3,4]
+Tensor2 = [5,6,7,8]
+
+Tensor1 dot Tensor2 = 1*5 + 2*6 + 3*7 + 4*8
+```
+
+
+
+
+
