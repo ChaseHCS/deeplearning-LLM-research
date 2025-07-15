@@ -1,4 +1,4 @@
-# Deep learning concepts
+# Deep learning
 
 ### Fundamental equation
 
