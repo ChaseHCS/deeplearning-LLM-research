@@ -111,3 +111,6 @@ General idea that there will always be some sampling variability whenever you ta
 
 
 ### Reproducing randomness via seeding
+
+When training an LLM you start with random weights. You can seed the weight similar to minecraft seeds so that it can be reproduced.
+
