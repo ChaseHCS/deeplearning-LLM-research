@@ -116,4 +116,4 @@ When training an LLM you start with random weights. You can seed the weight simi
 
 ### T-Test
 
-Test to determine
+Test to benchmark `LLMs` against each other or against a percentage. The equation is difference of means over the standard deviation.
