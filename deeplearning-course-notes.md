@@ -93,4 +93,13 @@ Finding a `min` and `max` of a vector is simple. The min is the lowest element w
 
 ### Mean and variance
 
-`Mean` is a good way to find a number to represent a normal gaussian distro. `Variance` is essentially the standard deviation of the distro.
+`Mean` is a good way to find a number to represent a normal gaussian distro. `Variance` is essentially the standard deviation of the distro. Calculating the `mean` and `variance` looks like this:
+
+```txt
+vector = [1,2,3,4,5]
+
+sum = 15
+
+mean  = 15/5 = 3
+
+var = sum([-2,-1,0,1,2]sq)/2 = 
