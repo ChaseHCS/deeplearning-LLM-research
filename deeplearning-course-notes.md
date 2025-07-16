@@ -107,4 +107,7 @@ var = sum([-2,-1,0,1,2]sq)/2 = 2
 
 ### Random sampling and sampling variability
 
+General idea that there will always be some sampling variability whenever you take a sample, regardless of how good the sampling technique is. The way to get around this is by taking high quality samples in great number.
 
+
+### Reproducing randomness via seeding
