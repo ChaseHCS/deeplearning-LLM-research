@@ -124,4 +124,4 @@ Test to benchmark `LLMs` against each other or against a percentage. The equatio
 
 ![Image can't load](https://miro.medium.com/v2/resize:fit:1200/1*G9B-tRaNfF1_VKJIEaPYwA.png "Derivative")
 
-This is the derivative of the sigmoid function as you can see it rises and falls with the slope. The reason we use derivatives is to find local minima in `gradiant descent`. 
+This is the derivative of the sigmoid function as you can see it rises and falls with the slope. The reason we use derivatives is to find local minima in `gradiant descent`. Two important rules to know in derivatives is the `product rule` and the `chain rule`. The product rule is: `(f + g)' = f' + g'`. The chain rule is: `(f. * g)' = f' * g + f * g'`
