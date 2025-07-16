@@ -120,3 +120,12 @@ Test to benchmark `LLMs` against each other or against a percentage. The equatio
 
 ### Derivatives
 
+`Derivatives` are essentially the slope of a line plotted. See image below for reference:
+
+![Image can't load](https://miro.medium.com/v2/resize:fit:1200/1*G9B-tRaNfF1_VKJIEaPYwA.png "Derivative")
+
+This is the derivative of the sigmoid function as you can see it rises and falls with the slope.
+
+To calculate the derivative of a `polynomial`, do this:
+
+```txt
