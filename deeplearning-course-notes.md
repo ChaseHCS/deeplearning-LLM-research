@@ -102,4 +102,9 @@ sum = 15
 
 mean  = 15/5 = 3
 
-var = sum([-2,-1,0,1,2]sq)/2 = 
+var = sum([-2,-1,0,1,2]sq)/2 = 2
+```
+
+### Random sampling and sampling variability
+
+
