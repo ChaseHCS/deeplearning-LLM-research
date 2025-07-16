@@ -87,5 +87,6 @@ We are only concerned with `Shannon Entropy` which is a way to think about uncer
 
 `Entropy` is a value of `1` when the probability is at `.5` and goes down as the probabilty becomes more certain. 
 
-### Finding minima and maxima
+### Finding min and max
 
+Finding a `min` and `max` of a vector is simple. The min is the lowest element while the max is the highest. The `arg min` is the location in the vector of the `min` and vice versa for the `arg max`.
