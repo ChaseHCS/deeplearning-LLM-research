@@ -85,8 +85,12 @@ We are only concerned with `Shannon Entropy` which is a way to think about uncer
 
 ![Image couldn't load](https://tcosmo.github.io/assets/H/Figure_1.png "Shannon Entropy")
 
-`Entropy` is a value of `1` when the probability is at `.5` and goes down as the probabilty becomes more certain. 
+`Entropy` is a value of `1` when the probability is at `.5` and goes down as the probabilty becomes more certain.
 
 ### Finding min and max
 
 Finding a `min` and `max` of a vector is simple. The min is the lowest element while the max is the highest. The `arg min` is the location in the vector of the `min` and vice versa for the `arg max`. This is important to know so that we can locate the element with the highest `softmax` or probability.
+
+### Mean and variance
+
+`Mean` is a good way to find a number to represent a normal gaussian distro.
