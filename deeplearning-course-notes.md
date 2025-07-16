@@ -93,4 +93,4 @@ Finding a `min` and `max` of a vector is simple. The min is the lowest element w
 
 ### Mean and variance
 
-`Mean` is a good way to find a number to represent a normal gaussian distro.
+`Mean` is a good way to find a number to represent a normal gaussian distro. `Variance` is essentially the standard deviation of the distro.
