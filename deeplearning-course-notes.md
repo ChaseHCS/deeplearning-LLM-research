@@ -89,4 +89,4 @@ We are only concerned with `Shannon Entropy` which is a way to think about uncer
 
 ### Finding min and max
 
-Finding a `min` and `max` of a vector is simple. The min is the lowest element while the max is the highest. The `arg min` is the location in the vector of the `min` and vice versa for the `arg max`.
+Finding a `min` and `max` of a vector is simple. The min is the lowest element while the max is the highest. The `arg min` is the location in the vector of the `min` and vice versa for the `arg max`. This is important to know so that we can locate the element with the highest `softmax` or probability.
