@@ -132,3 +132,4 @@ This is the derivative of the sigmoid function as you can see it rises and falls
 ## Gradient Descent
 
 
+## (ANN) Artificial Neural Networks
