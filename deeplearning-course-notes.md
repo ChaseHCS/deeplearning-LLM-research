@@ -131,5 +131,6 @@ This is the derivative of the sigmoid function as you can see it rises and falls
 
 ## Gradient Descent
 
+`Gradient Descent` is the backbone of AI.
 
 ## (ANN) Artificial Neural Networks
